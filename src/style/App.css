@@ -1,0 +1,23 @@
+* {
+  background-color: #2a4d69;
+  color: #E7EFF6;
+  border-radius: 25px;
+  font-family: 'Sono', sans-serif;
+}
+
+* button,
+input {
+  border: 1px solid #adcbe3bb;
+  cursor: pointer;
+}
+
+::placeholder {
+  color: #E7EFF6;
+  opacity: 1;
+}
+
+.container {
+  margin: 25px;
+  text-align: center;
+  height: 100%;
+}

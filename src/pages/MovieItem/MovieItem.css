@@ -1,0 +1,11 @@
+.movieItem {
+  text-align: center;
+  margin: 20px;
+  padding: 30px;
+}
+
+h1,
+h2,
+h5 {
+  padding: 20px;
+}

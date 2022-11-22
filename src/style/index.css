@@ -1,0 +1,10 @@
+@import '../component/Header/header.css';
+@import '../component/SignUp/SignUp.css';
+@import '../component/Movie/Movie.css';
+@import '../component/Modal/_modal.css';
+
+@import '../pages/AddMovie/AddMovie.css';
+@import '../pages/Profile/Profile.css';
+@import '../pages/MovieItem/MovieItem.css';
+
+@import './App.css';

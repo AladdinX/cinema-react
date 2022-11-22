@@ -1,0 +1,32 @@
+.modal {
+  display: block;
+  position: fixed;
+  top: calc(50% - 9rem);
+  width: 27rem;
+  left: calc(50% - 15rem);
+  margin: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 5px;
+  padding: 1rem;
+  background-color: #fff;
+  z-index: 1000;
+  border: none;
+}
+
+.modal>button {
+  background-color: black;
+  cursor: pointer;
+  width: 86%;
+  padding: 24px;
+  color: white;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 100;
+  background-color: rgba(0, 0, 0, 0.75);
+}

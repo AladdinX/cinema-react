@@ -1,0 +1,26 @@
+.forms {
+  margin: 20px;
+  /* border: 2px solid; */
+  text-align: center;
+  padding: 25px;
+}
+
+input {
+  padding: 10px;
+  margin: 20px;
+}
+
+input:focus {
+  background-color: #adcbe300;
+}
+
+button {
+  padding: 10px;
+  margin: 40px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, #adcbe367, #adcbe3e8, #adcbe300);
+}
